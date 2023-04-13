@@ -1,11 +1,11 @@
-path,posA,posD,Target
-data/imagestrain/colored_squares0.png,0.850 0.589 0.140 0.597,0.510 0.841,0.850 0.589
-data/imagestrain/colored_squares1.png,0.415 0.754 0.355 0.873,0.327 0.598,0.415 0.754
-data/imagestrain/colored_squares2.png,0.796 0.133 0.881 0.600,0.178 0.890,0.881 0.600
-data/imagestrain/colored_squares3.png,0.119 0.161 0.785 0.189,0.589 0.587,0.785 0.189
-data/imagestrain/colored_squares4.png,0.194 0.264 0.652 0.526,0.360 0.858,0.652 0.526
-data/imagestrain/colored_squares5.png,0.341 0.400 0.763 0.403,0.658 0.492,0.763 0.403
-data/imagestrain/colored_squares6.png,0.810 0.159 0.748 0.874,0.126 0.178,0.810 0.159
-data/imagestrain/colored_squares7.png,0.195 0.388 0.247 0.748,0.315 0.190,0.195 0.388
-data/imagestrain/colored_squares8.png,0.539 0.206 0.210 0.874,0.611 0.317,0.539 0.206
-data/imagestrain/colored_squares9.png,0.896 0.345 0.897 0.658,0.660 0.767,0.897 0.658
+image-file,square-positions,triangle,target
+colored_squares0.png,0.850 0.589 0.140 0.597,0.510 0.841,0.850 0.589
+colored_squares1.png,0.415 0.754 0.355 0.873,0.327 0.598,0.415 0.754
+colored_squares2.png,0.796 0.133 0.881 0.600,0.178 0.890,0.881 0.600
+colored_squares3.png,0.119 0.161 0.785 0.189,0.589 0.587,0.785 0.189
+colored_squares4.png,0.194 0.264 0.652 0.526,0.360 0.858,0.652 0.526
+colored_squares5.png,0.341 0.400 0.763 0.403,0.658 0.492,0.763 0.403
+colored_squares6.png,0.810 0.159 0.748 0.874,0.126 0.178,0.810 0.159
+colored_squares7.png,0.195 0.388 0.247 0.748,0.315 0.190,0.195 0.388
+colored_squares8.png,0.539 0.206 0.210 0.874,0.611 0.317,0.539 0.206
+colored_squares9.png,0.896 0.345 0.897 0.658,0.660 0.767,0.897 0.658
